@@ -36,4 +36,3 @@ console.log("Let's count the people who took the subway today!")
 // Google:
 // innerText alternative mdn
 
-
